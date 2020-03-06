@@ -1,2 +1,3 @@
 # Portfolio
-my coding journey
+
+My coding journey so far.
